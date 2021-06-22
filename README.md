@@ -1,5 +1,5 @@
 # Collect-Eggs-Python-Game
-In this Egg Catcher game you have to collect the falling eggs in the basket.
+In this Egg Catcher game you have to collect the falling eggs in the basket. \
 Built in **Pygame**. Python **2.7** Support \
 Make sure Pygame is installed on your machine.\
 How to run : $python2.7 collect_eggs.py from the hen_game directory.
